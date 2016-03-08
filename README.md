@@ -1,0 +1,2 @@
+# cordova
+multi platform
